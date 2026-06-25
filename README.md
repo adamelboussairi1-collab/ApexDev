@@ -7,7 +7,6 @@ I am focused on bridging the gap between development and operations to help busi
 🌍 **Based in Casablanca** | Future Cloud & DevOps Engineer
 
 ---
-
 ## 🚀 Apex Cloud Solutions
 <p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5f1b26f592d3b207dfec2b81/1596726214555-5O2J1N5G9U5M2P5X9U5G/Apex+Cloud+Solutions+Logo" width="400" alt="Apex Cloud Solutions Logo">
